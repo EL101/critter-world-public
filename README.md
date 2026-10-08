@@ -11,3 +11,5 @@ Features include:
 - Manna drops (food drops) that spawn food randomly around the map
 
 ## Screenshots:
+![Critter World GUI](./imgs/critter_sc.png)
+![Critter World GUI Zoomed in](./imgs/critter_zoomed.png)
